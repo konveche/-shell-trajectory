@@ -1,0 +1,20 @@
+﻿Сборка начата 28.06.2017 4:16:41.
+     1>Проект "C:\Users\Админ\Documents\Visual Studio 2013\Projects\glutaaaaa\glutaaaaa\glutaaaaa.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "Исходный код.cpp"
+         Исходный код.cpp
+     1>c:\users\админ\documents\visual studio 2013\projects\glutaaaaa\glutaaaaa\исходный код.cpp(122): warning C4101: oneline: неиспользованная локальная переменная
+     1>c:\users\админ\documents\visual studio 2013\projects\glutaaaaa\glutaaaaa\исходный код.cpp(1210): warning C4101: windy: неиспользованная локальная переменная
+     1>c:\users\админ\documents\visual studio 2013\projects\glutaaaaa\glutaaaaa\исходный код.cpp(1210): warning C4101: aa1: неиспользованная локальная переменная
+     1>c:\users\админ\documents\visual studio 2013\projects\glutaaaaa\glutaaaaa\исходный код.cpp(1210): warning C4101: dz: неиспользованная локальная переменная
+     1>c:\users\админ\documents\visual studio 2013\projects\glutaaaaa\glutaaaaa\исходный код.cpp(1210): warning C4101: aa3: неиспользованная локальная переменная
+     1>c:\users\админ\documents\visual studio 2013\projects\glutaaaaa\glutaaaaa\исходный код.cpp(1189): warning C4101: par: неиспользованная локальная переменная
+     1>c:\users\админ\documents\visual studio 2013\projects\glutaaaaa\glutaaaaa\исходный код.cpp(1210): warning C4101: aa2: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Админ\Documents\Visual Studio 2013\Projects\glutaaaaa\Debug\glutaaaaa.exe" /INCREMENTAL /NOLOGO OpenGL32.lib GLu32.lib GLaux.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Админ\Documents\Visual Studio 2013\Projects\glutaaaaa\Debug\glutaaaaa.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Админ\Documents\Visual Studio 2013\Projects\glutaaaaa\Debug\glutaaaaa.lib" /MACHINE:X86 "Debug\Исходный код.obj"
+         glutaaaaa.vcxproj -> C:\Users\Админ\Documents\Visual Studio 2013\Projects\glutaaaaa\Debug\glutaaaaa.exe
+     1>Сборка проекта "C:\Users\Админ\Documents\Visual Studio 2013\Projects\glutaaaaa\glutaaaaa\glutaaaaa.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.42
